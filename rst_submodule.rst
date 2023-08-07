@@ -1,4 +1,4 @@
-rts Submodule
+rst Submodule
 ===============
 
 Hi
